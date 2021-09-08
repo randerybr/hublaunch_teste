@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4219bbe-bf69-462f-8811-b522dd823c7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaAtualizaEndereco/.idea/ListaAtualizaEndereco.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaAtualizaEndereco/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaAtualizaEndereco/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaAtualizaEndereco/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaAtualizaEndereco/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaAtualizaEndereco/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaAtualizaEndereco/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaAtualizaEndereco/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaAtualizaEndereco/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaAtualizaEndereco/migrations/0002_auto_20210816_0950.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaAtualizaEndereco/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaAtualizaEndereco/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaAtualizaEndereco/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaAtualizaEndereco/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaAtualizaEndereco/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="a4219bbe-bf69-462f-8811-b522dd823c7b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +70,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ListaAtualizaEndereco" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -122,7 +106,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
