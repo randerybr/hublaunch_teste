@@ -20,3 +20,6 @@ class Cliente(models.Model):
 
     def excluir(self):
         self.excluir()
+
+    def listar(self):
+        return self.nome
