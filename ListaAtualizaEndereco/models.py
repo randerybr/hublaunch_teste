@@ -14,3 +14,9 @@ class Cliente(models.Model):
 
     def __str__(self):
         return self.nome
+
+    def alterar(self):
+        self.save()
+
+    def excluir(self):
+        self.excluir()
